@@ -1,2 +1,2 @@
 # st
-Personal config for st is a simple terminal implementation for X.
+Personal config for st, a simple terminal implementation for X.
