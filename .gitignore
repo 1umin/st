@@ -1,0 +1,9 @@
+ignore all object files
+*.o
+
+# Ignore build directory
+#patches/
+#volume-control/
+
+
+
